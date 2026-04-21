@@ -1,0 +1,128 @@
+{
+  "modules": {
+    "foundations": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "foundations-a1": {
+          "pages": [],
+          "slides": []
+        },
+        "foundations-a2": {
+          "pages": [],
+          "slides": []
+        },
+        "foundations-a3": {
+          "pages": [],
+          "slides": []
+        },
+        "foundations-a4": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "state-mgmt": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "state-management-a1": {
+          "pages": [],
+          "slides": []
+        },
+        "state-management-a2": {
+          "pages": [],
+          "slides": []
+        },
+        "state-management-a3": {
+          "pages": [],
+          "slides": []
+        },
+        "state-management-a4": {
+          "pages": [],
+          "slides": []
+        },
+        "state-management-a5": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "routing-api": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "routing-api-a1": {
+          "pages": [],
+          "slides": []
+        },
+        "routing-api-a2": {
+          "pages": [],
+          "slides": []
+        },
+        "routing-api-a3": {
+          "pages": [],
+          "slides": []
+        },
+        "routing-api-a4": {
+          "pages": [],
+          "slides": []
+        },
+        "routing-api-a5": {
+          "pages": [],
+          "slides": []
+        },
+        "routing-api-a6": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "projects": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "capstone-projects-a1": {
+          "pages": [],
+          "slides": []
+        },
+        "capstone-projects-a2": {
+          "pages": [],
+          "slides": []
+        },
+        "capstone-projects-a3": {
+          "pages": [],
+          "slides": []
+        },
+        "capstone-projects-a4": {
+          "pages": [],
+          "slides": []
+        },
+        "capstone-projects-a5": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "b68372cb-de45-4d25-9231-33af72365c86": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "886162de-039b-4448-81df-2d5035e3eb34": {
+          "pages": [],
+          "slides": []
+        },
+        "e3996a10-d551-4045-b0fd-764551a82fe7": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "lkjlkjlkj"
+    ],
+    "slides": []
+  }
+}
