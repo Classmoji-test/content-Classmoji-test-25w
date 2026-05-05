@@ -120,9 +120,7 @@
     }
   },
   "general": {
-    "pages": [
-      "hello"
-    ],
+    "pages": [],
     "slides": []
   }
 }
